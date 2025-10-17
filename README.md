@@ -1,4 +1,4 @@
-🌅 Slide Card Project
+# 🌅 Slide Card Project
 
 Bu proje, modern ve responsive bir **card slider** yapısını denemek için geliştirilmiş mini bir web projesidir.  
 Kullanıcı, kartlar arasında geçiş yaparak farklı şehir veya bölgeleri görebilir.
