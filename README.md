@@ -16,7 +16,7 @@ Kullanıcı, kartlar arasında geçiş yaparak farklı şehir veya bölgeleri g�
 
 ## 🖼️ Önizleme
 
-![Slide Card Preview](./prew.gif)
+![Slide Card Preview](./pic/prew.jpg)
 
 ---
 
